@@ -1,4 +1,4 @@
-# Retails-Sales-Analysis-using-Python-MYSQL
+# RetailsOrder and Sales- Analysis-using-Python-MYSQL
 
 End-to-End Data Analytics Project
 
