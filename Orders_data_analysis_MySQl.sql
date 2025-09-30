@@ -1,5 +1,5 @@
 
-# Retail_orders analysis using MYSQL & Python
+# Retail-Order and Sales Analysis with Python & MySQL
 
 # Solving problem statements 
 
