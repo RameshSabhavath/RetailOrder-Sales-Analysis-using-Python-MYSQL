@@ -1,5 +1,5 @@
 
-# Retail_orders analysis using MYSQL 
+# Retail_Order and Sales analysis using MYSQL 
 
 # Solving problem statements 
 
